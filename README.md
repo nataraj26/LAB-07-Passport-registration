@@ -22,10 +22,19 @@ Star UML
 1. 512MB RAM2. Pentium III Processor
 
 
+UML DIAGRAMS:
+USECASE DIAGRAM:
+
+![322471350-ab8a033e-dd8d-4112-8200-7a896245bc9b](https://github.com/user-attachments/assets/c4053be1-73b2-4c8f-97ad-58c6cdaac005)
 
 
+### CLASS DIAGRAM:
+![class](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/535b23f5-f688-4402-a67e-590ef7890707)
+### ACTIVITY DIAGRAM:
+![activity](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/ef01fca1-e03b-4323-8cfa-607da84ede19)
 
-
+### SEQUENCE DIAGRAM:
+![sequence](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/98b53141-a3a4-466e-ab14-66f68f532cf6)
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
