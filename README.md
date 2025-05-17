@@ -20,21 +20,36 @@ In this module the user can cancel their tickets.
 Star UML
 ### HARDWARE REQUIRMENTS:
 1. 512MB RAM2. Pentium III Processor
+### UML DIAGRAMS:
+
+## USECASE DIAGRAM :
+![Screenshot 2024-04-20 115703](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/52f992f3-f1f9-48a8-a42f-67e78097ae94)
+
+## CLASS DIAGRAM :
+![Screenshot 2024-04-20 115723](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/ff2b1073-cfcb-4f48-a0de-875c272fb7f7)
 
 
-UML DIAGRAMS:
-USECASE DIAGRAM:
+## SEQUENCE DIAGRAM :
 
-![322471350-ab8a033e-dd8d-4112-8200-7a896245bc9b](https://github.com/user-attachments/assets/c4053be1-73b2-4c8f-97ad-58c6cdaac005)
+![Screenshot 2024-04-20 115836](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/eef075af-639f-425e-96ae-ae524f93ea6a)
+
+## ACTIVITY DIAGRAM :
+![Screenshot 2024-04-20 120120](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/8ca94183-01b0-4d82-b80c-b60e72bce134)
 
 
-### CLASS DIAGRAM:
-![class](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/535b23f5-f688-4402-a67e-590ef7890707)
-### ACTIVITY DIAGRAM:
-![activity](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/ef01fca1-e03b-4323-8cfa-607da84ede19)
+## COMMUNICATION DIAGRAM :
+![Screenshot 2024-04-20 115818](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/715255af-0ebc-4d5d-b3cd-aa8fe5d7badd)
 
-### SEQUENCE DIAGRAM:
-![sequence](https://github.com/23005672/LAB-07-Passport-registration/assets/138971519/98b53141-a3a4-466e-ab14-66f68f532cf6)
+
+
+## PACKAGE DIAGRAM :
+![Screenshot 2024-04-20 115749](https://github.com/23003324/LAB-07-Passport-registration/assets/140035234/63d5c646-38cd-4b36-9f20-d917bf7a9159)
+
+
+
+
+
+
 
 ### RESULT:
 Thus the Passport Registration system project was executed and the output was verified.
